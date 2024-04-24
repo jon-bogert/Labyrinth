@@ -1,0 +1,20 @@
+Instructions:
+
+You have been assigned a number of items to collect that are scattered throughout the labyrinth and you must collect them in order.
+Every turn, you may use the extra maze tile to move one row or column of the maze by 1 tile. The restrictions are, you can only
+place the items where the arrows around the labyrinth are, and you may not directly undo the last move.
+Once you have collected all your pieces, head back to your starting tile to finish!
+
+Controls:
+
+Move Player/Tile Up: W/Up Arrow
+Move Player/Tile Down: S/Down Arrow
+Move Player/Tile Left: A/Left Arrow
+Move Player/Tile Right: D/Right Arrow
+
+Rotate Tile Clock-wise: E/R-CTRL
+Rotate Tile Counter Clock-wise: Q/R-ALT
+
+Interact/Next Move: F/ENTER
+
+Pause: ESC/BKSPC

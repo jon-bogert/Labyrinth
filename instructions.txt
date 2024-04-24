@@ -1,0 +1,7 @@
+1. Create Solution Folder
+2. Copy 'raylib' library into solution folder
+3. Move Premake files to solution root folder
+4. Create Project Folder
+5. Replace 2 instances of 'YourGame' with the name of your project folder (notepad/notepad++)
+6. Run 'premake-2019.bat'
+7. Open Generated Solution
